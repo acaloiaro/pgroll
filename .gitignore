@@ -3,5 +3,7 @@ bin/license-header-checker
 # misc
 .DS_Store
 .env
-
+.devenv 
+.pre-commit-config.yaml
+result
 dist/
